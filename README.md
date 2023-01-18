@@ -1,2 +1,2 @@
 # MCB_hackaton
-Tasks for MCB hackaton
+Solved tasks for MCB hackaton, max score contest
